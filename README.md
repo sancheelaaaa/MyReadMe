@@ -1,24 +1,24 @@
-<h1 align="left">Эй! Че как оно?</h1>
+<h1 align="center">Эй! Че как оно?</h1>
 
 ###
 
-<p align="left">Меня зовут Александр, я из России 🇷🇺  и на данный момент работаю над проектом в компьютерной игре Minecraft - LiteMC.</p>
+<p align="center">Меня зовут Александр, я из России 🇷🇺  и на данный момент работаю над проектом в компьютерной игре Minecraft - LiteMC.</p>
 
 ###
 
-<h2 align="left">Про меня</h2>
+<h2 align="center">Про меня</h2>
 
 ###
 
-<p align="left">✨ Программирую синие экраны смерти с 2019 года<br>📚 На данный момент изучаю Java, Python, C#<br>🎯 Цели/Задачи: не потерять хватку; программировать больше; подкачаться (LOL)<br>👻 Мечтаю: попасть в компанию веселых и интересных людей</p>
+<p align="center">✨ Программирую синие экраны смерти с 2019 года<br>📚 На данный момент изучаю Java, Python, C#<br>🎯 Цели/Задачи: не потерять хватку; программировать больше; подкачаться (LOL)<br>👻 Мечтаю: попасть в компанию веселых и интересных людей</p>
 
 ###
 
-<h2 align="left">Я программирую на языках</h2>
+<h2 align="center">Я программирую на языках</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -32,6 +32,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/sancheelaaaa/sancheelaaaa/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sancheelaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sancheelaaaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -39,7 +43,7 @@
 
 ###
 
-<h2 align="left">Мои соц. сети</h2>
+<h2 align="center">Мои соц. сети</h2>
 
 ###
 
